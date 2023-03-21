@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #222831;
+    color:white;
+}
+
+
+
+hr {
+    color: #00ADB5;
+    border-style: dotted none none;
+    border-width: 12px;
+}
+h1 {
+    color: #00ff95;
+}
+h2 {
+    color: #c790f1;
+}
+a {
+    color: #00ADB5;
+    text-decoration: none;
+}
+.skils{
+    border-radius:50px;
+    border:solid
+}
+.molly{
+    font-size:4em;
+}
+
